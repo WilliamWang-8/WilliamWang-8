@@ -1,4 +1,4 @@
-## Hi! I'm Will
+# Hi! I'm Will
 
 I'm a first-year at studying materials science & engineering at **Northwestern University**. I am an undergraduate researcher in The Haile Group (Materials and Devices for Sustainable Energy), wind tunnel engineer for NUSTARS (rocketry society), and mix team member for Concrete Canoe.
 
